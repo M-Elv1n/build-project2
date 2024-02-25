@@ -1,1 +1,1 @@
-# build-project2
+# aforizmacademy
